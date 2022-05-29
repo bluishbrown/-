@@ -1,16 +1,16 @@
-# 한국어작문헬퍼
-NLP
+# 한국어 작문 헬퍼
+
 # 배경 및 목표
 
 많은 사람들이 작문과 발화를 할 때 풍부하고 적확한, 있어보이는 표현을 찾기위해 고민을 하고, 인터넷 포털이나 사전에서 유의어와 그 용례를  직접 살펴보는 노력을 하고 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6fd8f2c6-eba6-4a65-bd11-39855e869aca/Untitled.png)
+![Untitled](Untitled.png)
 
 이 프로젝트는 작성자의 글과 글에서 바꾸고 싶은 부분을 입력으로 받아 풍부한 다른 표현을 제안합니다.
 
 # 스크린샷 및 이용방법
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b1d35c7-47d5-4dbe-87d1-80ac2a758a8b/Untitled.png)
+![Untitled](Untitled 1.png)
 
 1. writing에 본인의 글,
 2. word에 고치려는 단어
@@ -18,7 +18,7 @@ NLP
 
 ctrl+shift+enter를 눌러 run all cells 하면 맨 아래 셀에 맥락에 맞는 유의어르 볼 수 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b72fcc38-7b3c-43c4-8f9b-5c4d40ed41a0/Untitled.png)
+![Untitled](Untitled 2.png)
 
 # 기술
 
